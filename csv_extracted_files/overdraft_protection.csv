@@ -1,3 +1,5 @@
-,total_per_value,percentage_no,percentage_yes,%variation_no,%variation_yes
-No,10668,0.944,0.056,-0.0,0.0
-Yes,1915,0.946,0.054,0.2,-3.5999999999999996
+,total_per_value,percentage_no,percentage_yes,%variation_no,%variation_yes,columns
+No,10668.0,0.944,0.056,-0.0,0.0,
+Yes,1915.0,0.946,0.054,0.2,-3.5999999999999996,
+1,,,,,,No
+2,,,,,,Yes

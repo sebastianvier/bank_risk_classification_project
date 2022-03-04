@@ -1,4 +1,7 @@
-,total_per_value,percentage_no,percentage_yes,%variation_no,%variation_yes
-Air Miles,4237,0.926,0.074,-1.9,32.2
-Cash Back,4169,0.965,0.035,2.1999999999999997,-37.6
-Points,4177,0.941,0.059,-0.3,5.4
+,total_per_value,percentage_no,percentage_yes,%variation_no,%variation_yes,columns
+Air Miles,4237.0,0.926,0.074,-1.9,32.2,
+Cash Back,4169.0,0.965,0.035,2.1999999999999997,-37.6,
+Points,4177.0,0.941,0.059,-0.3,5.4,
+1,,,,,,Air Miles
+2,,,,,,Cash Back
+3,,,,,,Points
